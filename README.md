@@ -2,7 +2,7 @@
 
 ## Téléchargement
 
-### [Télécharger l'APK modifié ici](https://github.com/ChikenRemake/Fear-and-Hunger-apk-version-FR/releases/download/untagged-31c980fc8fee3275bbae/FR.Fear.and.Hunger.apk)
+### [Télécharger Fear and Hunger sur android et en Français ici](https://github.com/ChikenRemake/Fear-and-Hunger-apk-version-FR/releases/download/untagged-31c980fc8fee3275bbae/FR.Fear.and.Hunger.apk)
 
 ---
 
