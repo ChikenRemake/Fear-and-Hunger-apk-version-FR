@@ -1,4 +1,4 @@
-# Fear and Hunger - Version Android Française Modifiée
+# Fear and Hunger - Version Android Française
 
 ## Description
 Ce dépôt contient une version modifiée de l'APK de *Fear and Hunger*, créée par **Chokage**. Cette version inclut :
@@ -7,7 +7,7 @@ Ce dépôt contient une version modifiée de l'APK de *Fear and Hunger*, créée
 - **Améliorations de mise en forme** : Modification du fichier `YEP_MessageCore.js` pour réduire la taille de la police, améliorant ainsi la mise en forme et la lisibilité du texte dans les dialogues.
 
 ## Source de l'APK
-L'APK utilisé pour cette modification provient de la version anglaise créée par Chokage, disponible [ici](https://github.com/Chokage/Fear-And-Hunger-Android-Application). Pour toute question concernant l'APK, veuillez vous adresser à Chokage.
+L'APK utilisé pour cette modification provient de la version créée par Chokage, disponible [ici](https://github.com/Chokage/Fear-And-Hunger-Android-Application). Pour toute question concernant l'APK, veuillez vous adresser à Chokage.
 
 ## Installation
 1. Téléchargez le fichier APK modifié ci-dessous.
