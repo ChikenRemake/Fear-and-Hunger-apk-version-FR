@@ -14,6 +14,9 @@ L'APK utilisé pour cette modification provient de la version créée par Chokag
 2. Autorisez l'installation d'applications provenant de sources inconnues sur votre appareil Android.
 3. Installez l'APK.
 
+## Téléchargement
+[Télécharger l'APK modifié ici](https://github.com/ChikenRemake/Fear-and-Hunger-apk-version-FR/releases/tag/untagged-31c980fc8fee3275bbae)
+
 ## Crédits
 - **Chokage** pour la création de l'APK.
 - **Futboy** et **Kiirozakura** pour la traduction française.
