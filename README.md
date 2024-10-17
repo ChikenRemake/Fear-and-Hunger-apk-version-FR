@@ -1,33 +1,29 @@
-# Fear and Hunger - Version Android Française
+# Fear and Hunger - VF (Android)
 
 ## Téléchargement
 
-### [Télécharger Fear and Hunger VF pour Android](https://github.com/ChikenRemake/Fear-and-Hunger-apk-version-FR/releases/download/v.1.0.1/FR.Fear.and.Hunger.apk).
+### [Télécharger](https://github.com/ChikenRemake/Fear-and-Hunger-apk-version-FR/releases/download/v.1.0.1/FR.Fear.and.Hunger.apk)
+
+1. Téléchargez le fichier APK à partir du lien ci-dessus.
+2. Accédez aux paramètres de votre appareil Android.
+3. Dans la section **Sécurité**, activez l'option pour permettre l'installation d'applications provenant de sources inconnues.
+4. Ouvrez le fichier APK téléchargé.
+5. Si un message indique que l'application est dangereuse, c'est parce qu'elle est signée par moi-même, ce qui est normal pour les applications non officielles.
+6. Suivez les instructions à l'écran pour installer l'application.
 
 ---
 
 ## Description
 
-Ce dépôt contient une version modifiée de l'APK de *Fear and Hunger*, créée par **Chokage**. Cette version inclut :
+Ce dépôt contient une version modifiée de l'APK du jeu *Fear and Hunger*. À partir de l'APK créée par **Chokage** ([source](https://github.com/Chokage/Fear-And-Hunger-Android-Application)), j'ai appliqué un mod de traduction française réalisé par **Futboy** et **Kiirozakura** ([source](https://www.nexusmods.com/fearandhunger/mods/32?tab=description)).
 
-- **Traduction française** : Traduction réalisée par **Futboy** et **Kiirozakura**, disponible [ici](https://www.nexusmods.com/fearandhunger/mods/32?tab=description). Pour toute question concernant la traduction, veuillez consulter ce lien.
-- **Améliorations de mise en forme** : Modification du fichier `YEP_MessageCore.js` pour réduire la taille de la police, améliorant ainsi la mise en forme et la lisibilité du texte dans les dialogues.
-
-## Source de l'APK originale(en anglais)
-
-L'APK utilisé pour cette modification provient de la version créée par Chokage, disponible [ici](https://github.com/Chokage/Fear-And-Hunger-Android-Application). Pour toute question concernant l'APK, veuillez vous adresser à Chokage.
-
-## Installation
-
-1. Téléchargez le fichier APK modifié ci-dessus.
-2. Autorisez l'installation d'applications provenant de sources inconnues sur votre appareil Android.
-3. Installez l'APK.
+Des ajustements ont également été apportés pour améliorer la présentation et la lisibilité du texte dans les dialogues sur Android.
 
 ## Crédits
 
 - **Chokage** pour la création de l'APK.
 - **Futboy** et **Kiirozakura** pour la traduction française.
 
-## Note de l'auteur
+## Remerciements
 
-C'est la première fois que je partage un fichier sur GitHub et que je modifie un code. Je n'ai aucune expérience préalable dans le partage de fichiers ou le codage, donc vos retours sont les bienvenus pour m'aider à m'améliorer !
+Un grand merci à **Futboy** et **Kiirozakura** pour leur excellent travail sur la traduction. N'hésitez pas à faire un don sur leur page Nexus Mods pour soutenir leur travail et les encourager dans leurs projets futurs.
