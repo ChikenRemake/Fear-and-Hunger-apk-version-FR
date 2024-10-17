@@ -1,8 +1,8 @@
 # Fear and Hunger - VF (Android)
 
-## Téléchargement
+## Installation
 
-### [Télécharger](https://github.com/ChikenRemake/Fear-and-Hunger-apk-version-FR/releases/download/v.1.0.1/FR.Fear.and.Hunger.apk)
+### [Télécharger Fear and Hunger - VF(Android)](https://github.com/ChikenRemake/Fear-and-Hunger-apk-version-FR/releases/download/v.1.0.1/FR.Fear.and.Hunger.apk)
 
 1. Téléchargez le fichier APK à partir du lien ci-dessus.
 2. Accédez aux paramètres de votre appareil Android.
